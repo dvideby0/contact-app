@@ -1,0 +1,25 @@
+.img-large{
+    border-radius: 5px;
+    width: 100%;
+}
+
+.favorite{
+    font-size: 50px;
+}
+
+.sub-title{
+    font-weight: bold;
+}
+
+.sub-value{
+    font-size: 12px;
+}
+
+.item{
+    padding: 10px;
+    margin: 0;
+}
+.row{
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,13 @@
+.tel-small, .tel-small div{
+    padding: 0;
+    font-size: 13px;
+    color: #aaaaaa;
+}
+
+.img-small{
+    border-radius: 5px;
+}
+
+.contact-name{
+    font-weight: bold;
+}
