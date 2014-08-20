@@ -1,17 +1,17 @@
 contact-app
 ===========
 
-The contact-app is a demo application that displays a list of contacts and their details based on the Solstice contact API
+The contact-app is a demo application that displays a list of contacts and their details based on the Solstice contact API.
+
+    >For code review, please use the www folder in the root directory. This contains all of the HTML documents that were used to create this application.
 
 
 
-##Requirements
+##Requirements to build the application
 
-You must have NodeJS > 0.10.x installed and the Appgyver steroids module. You can download the latest copy of NodeJS [here](http://nodejs.org).
+Please follow [This guide](https://academy.appgyver.com/installwizard) to setup Steroids, NodeJS and your developer tools
 
-    npm install steroids -g
-
-######Run the Example
+######Building the Project
 
 1. Download the project.
 
@@ -28,6 +28,12 @@ and [Apple](https://itunes.apple.com/us/app/appgyver-scanner/id575076515?mt=8) m
 can run `steroids deploy` instead of `steroids connect`. Or you simply open this [URL](https://share.appgyver.com/?id=23715&hash=20df2653aa0278eea1ba3657b7ba194e12c597e5494caa77963d5979535f8db9)
 On the deploy page, you can not only scan the QR code with any device but you can also demo the application using the on-page simulator (it's a little slow).
 
+
+######Running the Application Without Building
+
+1. Open this [URL](https://share.appgyver.com/?id=23715&hash=20df2653aa0278eea1ba3657b7ba194e12c597e5494caa77963d5979535f8db9)
+
+2. On the deploy page, you can either scan the QR code with any device that has the scanner app installed or you can demo the application using the on-page simulator (it's a little slow).
 
 
 ##Credits
