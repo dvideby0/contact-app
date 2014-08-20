@@ -3,7 +3,7 @@ contact-app
 
 The contact-app is a demo application that displays a list of contacts and their details based on the Solstice contact API.
 
-    >For code review, please use the www folder in the root directory. This contains all of the HTML documents that were used to create this application.
+>For code review, please use the www folder in the root directory. This contains all of the HTML documents that were used to create this application.
 
 
 
